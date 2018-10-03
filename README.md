@@ -1,2 +1,2 @@
 # Mouseye
-An Utility Application made with OpenCV allowing the user to perform mouse click events using blinking of eyes.
+A Utility Application made with OpenCV allowing the user to perform mouse click events using blinking of eyes.
